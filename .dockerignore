@@ -1,0 +1,11 @@
+--pycache--/
+
+*.pyc
+
+.git
+
+.gitignore
+
+venv/
+
+
